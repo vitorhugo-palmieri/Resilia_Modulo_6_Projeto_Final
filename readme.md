@@ -4,9 +4,9 @@ Projeto de encerramento de módulo 6  do curso Data Analytics.
 
 ## Equipe desenvolvedora:
 
-- [@Vitor_Palmieri](https://github.com/vitor-hugo-p-7529162b
-- [@Gabriela_Antunes](https://github.com/vitor-hugo-p-7529162b
-- [@Beatriz_Laquini](https://github.com/vitor-hugo-p-7529162b
+- [@Vitor_Palmieri](https://github.com/vitor-hugo-p-7529162b)
+- [@Gabriela_Antunes](https://github.com/gabigarrafinha)
+- [@Beatriz_Laquini](https://github.com/laquinib)
 
 ## Introdução
 
@@ -21,6 +21,7 @@ Analisar e mostrar em forma de storytelling os dados disponibilizados sobre a ut
 
 ## Ferramentas utilizadas no projeto: 
 
--Power BI
--Tableau
--Biblioteca Pandas
+- Power BI
+- Tableau
+- Biblioteca Pandas
+

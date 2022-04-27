@@ -25,3 +25,6 @@ Analisar e mostrar em forma de storytelling os dados disponibilizados sobre a ut
 - Tableau
 - Biblioteca Pandas
 
+## Link para o projeto publicado:
+@[projeto](https://app.powerbi.com/view?r=eyJrIjoiZDAwNzAwZmQtMmQyNy00YTZjLWE4NGEtMTM5YmY3ZjlkMWM3IiwidCI6IjAyMWViNDgzLTEyMWItNDA2Mi1iZWYyLWRiZTdlMTU4YmY2MCJ9&pageName=ReportSectione35524a6ef7714de4cea)
+ 
